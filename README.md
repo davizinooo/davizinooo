@@ -18,7 +18,6 @@ I am currently looking for **internship and junior opportunities** where I can c
 - Software development and backend systems
 - Industrial automation and embedded systems
 - Generative AI applications
-- Blockchain projects
 
 ## Toolkit
 
