@@ -1,6 +1,6 @@
 # Hey, I'm Davi 👋
 
-**Computer Science student at [PUC Minas](https://www.pucminas.br)** and an **Industrial Automation Technician** — building software that connects practical problems, automation, and intelligent systems.
+**Computer Science student at [PUC Minas](https://www.pucminas.br)** — building software that connects practical problems, automation, and intelligent systems.
 
 ## My path
 
