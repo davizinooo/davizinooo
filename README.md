@@ -31,4 +31,4 @@ I am currently looking for **internship and junior opportunities** where I can c
 
 I am open to internship and junior opportunities, collaborative projects, and conversations about technology.
 
-- GitHub: [@davizinooo](https://github.com/davizinooo)
+- LinkedIn: [Davi Rodrigues Barbosa](https://www.linkedin.com/in/davi-rodrigues-barbosa)
