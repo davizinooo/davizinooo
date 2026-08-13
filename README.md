@@ -11,7 +11,6 @@ I am currently looking for **internship and junior opportunities** where I can c
 ## What I've built
 
 - **Invoice XML Processing System** — automates the processing and organization of electronic invoice XML files, reducing repetitive work and making fiscal data easier to validate and use.
-- **Biometric Attendance System** — combines biometric identification, software, and embedded systems concepts to create a practical attendance-control workflow.
 
 ## What I'm exploring
 
