@@ -2,10 +2,6 @@
 
 **Computer Science student at [PUC Minas](https://www.pucminas.br)** and an **Industrial Automation Technician** — building software that connects practical problems, automation, and intelligent systems.
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/davizinooo" alt="Davi's GitHub contribution heatmap" />
-</p>
-
 ## My path
 
 My background started with industrial automation, electronics, and embedded systems. Today, I am expanding that foundation through Computer Science and software development, with a focus on turning real-world processes into reliable digital solutions.
