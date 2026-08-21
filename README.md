@@ -1,32 +1,43 @@
 # Hey, I'm Davi 👋
 
-**Computer Science student at [PUC Minas](https://www.pucminas.br)** — building software that connects practical problems, automation, and intelligent systems.
+Computer Science student at [PUC Minas](https://www.pucminas.br) interested in **software engineering, blockchain, backend development, and AI**.
 
-## My path
+## About Me
 
-My background started with industrial automation, electronics, and embedded systems. Today, I am expanding that foundation through Computer Science and software development, with a focus on turning real-world processes into reliable digital solutions.
+* 🎓 Computer Science student at **PUC Minas**
+* 💻 Building projects with ** React, Next, TypeScript, Python and Docker**
+* 🤖 Exploring now **AI-assisted development, Generative AI and Cloud**
+* 🌎 Experience collaborating with **international teams**
+* 🔎 Currently looking for **software engineering internship opportunities**
 
-I am currently looking for **internship and junior opportunities** where I can contribute to meaningful projects, learn from experienced teams, and grow as a software engineer.
+## Featured Projects
 
-## What I've built
+### 📄 Invoice XML Processing System
 
-- **Invoice XML Processing System** — automates the processing and organization of electronic invoice XML files, reducing repetitive work and making fiscal data easier to validate and use.
+Python tool for processing invoice XML files and extracting product data to support **pricing, inventory, and product registration workflows**.
 
-## What I'm exploring
+### 🎨 Digital Collectibles Collection
 
-- Software development and backend systems
-- Industrial automation and embedded systems
-- Generative AI applications
+End-to-end project involving **development, metadata, asset generation, configuration, and deployment**.
 
-## Toolkit
+* **400+ ETH** in trading volume
+* Worked across technical, product, and launch activities
 
-- **Languages:** Python, C++, Java, JavaScript
-- **Data:** PostgreSQL
-- **Development:** Git
-- **Hardware and automation:** Arduino, industrial automation, embedded systems
+### 🤖 Generative AI & Bitcoin Project
+
+Contributed to a Bitcoin-based project combining **generative AI and JavaScript automation**.
+
+* Built image-generation workflows using **LoRA**
+* Developed JavaScript-based publishing tools
+* Reached **2,100+ unique holders**
+
+## Tech Stack
+
+* **Languages:** Python · JavaScript · Java · C++
+* **Data:** SQL · XML
+* **Tools:** Git · GitHub · Cursor · Codex
+* **Interests:** Backend · Automation · Generative AI · Embedded Systems
 
 ## Connect
 
-I am open to internship and junior opportunities, collaborative projects, and conversations about technology.
-
-- LinkedIn: [Davi Rodrigues Barbosa](https://www.linkedin.com/in/davi-rodrigues-barbosa)
+[LinkedIn](https://www.linkedin.com/in/davi-rodrigues-barbosa)
